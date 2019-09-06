@@ -34,13 +34,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+Semantic HTML is essentially the foundation of the webpage. Semantic mark-up tag is used to communicate with CSS file to structure the page content. 
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+The main two difference between ```display: block;``` and ```display: inline:``` are, inline allows the width and height to be set and also after an element, inline-block does not add a line-break.
 
 3. What are the 4 areas of the box model?
 
+The 4 areas of the box model are: content edge, padding edge, border edge, and margin edge.
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+The cross axis.
+
 5. Explain why git is valuable to a team of developers.
+
+It allows teams of developers to work on specific features in branches without affecting the product quality code.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
